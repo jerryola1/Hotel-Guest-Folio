@@ -1,0 +1,5 @@
+#ignore config
+config/db.php
+
+php.ini
+db3yhfhgjwokrx.sql
